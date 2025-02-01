@@ -1,4 +1,4 @@
-site_name: panduan aplikasi manajemen pegawai
+site_name: Panduan Aplikasi Manajemen Pegawai
 # site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -6,15 +6,15 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary:  lime  
-      accent: lime
+      primary:  blue grey 
+      accent: blue grey 
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary:  lime  
+      primary:  blue grey 
       accent: lime
       toggle:
         icon: material/lightbulb-outline
