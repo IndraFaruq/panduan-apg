@@ -1,7 +1,7 @@
 # Selamat Datang
 
-## Di Panduan Aplikasi Manajemen  Pegawai
+## Di System Informasi Pelaporan Pelanggaran
 
-<img src="images/system.png" width= 40%>
+<img src="images/giu.png" width= 60%>
 
 [Memulai](01.md){ .md-button .md-button--primary }

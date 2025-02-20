@@ -1,4 +1,4 @@
-site_name: Panduan Aplikasi Manajemen Pegawai
+site_name: System Informasi Pelaporan Pelanggaran
 # site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -27,8 +27,8 @@ theme:
 
 # icon 
   # logo : material/box
-  logo: images/system.png
-  favicon: images/system.png
+  logo: images/giu.png
+  favicon: images/giu.png
 
   icon:
     admonition:
@@ -64,11 +64,14 @@ plugins:
   - search
 
 # Footer
-copyright: Made with by kikuk | ᕦ(ò_óˇ)ᕤ
+copyright: By Made  🤍 by TechnoMancers| ☺ 2025  
 
 extra:
   generator: false
   social:
    - icon: fontawesome/brands/github
      link: https://github.com/IndraFaruq 
+
+
+
 
